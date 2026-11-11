@@ -9,7 +9,7 @@ blockExoticSubdeps: true
 catalog:
   '@monaco-editor/react': ^4.7.0
   '@sentry/nextjs': ^10.75.2
-  '@sentry/tanstackstart-react': ^10.59.0
+  '@sentry/tanstackstart-react': ^10.75.2
   '@supabase/auth-js': 2.110.1
   '@supabase/postgrest-js': 2.110.1
   '@supabase/realtime-js': 2.110.1
@@ -47,7 +47,7 @@ catalog:
   vite: ^7.3.7
   vite-tsconfig-paths: ^6.1.1
   vitest: ^4.1.4
-  zod: 4.6.7
+  zod: 3.25.76
 
 ignoredBuiltDependencies:
   - '@parcel/watcher'

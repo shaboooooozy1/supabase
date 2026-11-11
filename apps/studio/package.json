@@ -62,7 +62,7 @@
     "@next/bundle-analyzer": "16.2.3",
     "@number-flow/react": "^0.3.2",
     "@sentry/nextjs": "catalog:",
-    "@sentry/react": "^10.27.0",
+    "@sentry/react": "^10.75.2",
     "@sentry/tanstackstart-react": "catalog:",
     "@std/path": "npm:@jsr/std__path@^1.0.8",
     "@stripe/react-stripe-js": "6.1.0",
